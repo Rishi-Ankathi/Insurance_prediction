@@ -1,2 +1,2 @@
 # Insurance_prediction
-Prediction model using linear regression
+Insurance prediction model using linear regression
