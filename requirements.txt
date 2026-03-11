@@ -1,5 +1,4 @@
 pandas
 numpy
-streamlit==1.19.0
+streamlit
 scikit-learn
-altair<5
